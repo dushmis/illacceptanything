@@ -1,0 +1,9 @@
+python-cjson
+ujson
+yajl
+MySQL-python
+PHP
+PyYAML
+pymongo
+nose
+Nodejs v0.1.x

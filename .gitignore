@@ -1,0 +1,8 @@
+bower_components/
+node_modules/
+.idea
+__pycache__
+*.pyc
+*.swp
+.ropeproject
+.DS_Store
